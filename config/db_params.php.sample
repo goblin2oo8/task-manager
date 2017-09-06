@@ -1,0 +1,9 @@
+<?php
+
+return array(
+    'host' => "localhost",
+    'dbname' => "DB_NAME",
+    'user' => "USER_NAME",
+    'password' => "YOUR_DB_PASSWORD",
+);
+
