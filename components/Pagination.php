@@ -2,7 +2,7 @@
 
 class Pagination {
 
-    private $max = 10;
+    private $max = 3;
     private $index = 'page';
     private $current_page;
     private $total;
